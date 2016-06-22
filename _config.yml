@@ -1,4 +1,4 @@
-layout_spectrum: 0.2633270877413452
+name: planbagentur
 opengraph:
   image: null
   type: null
@@ -9,23 +9,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5872813223395497
   brandStrength: 0
   lightness: 0.02117541222833097
   brandColors:
-    - '#E1EBF4'
-    - '#030504'
-    - '#B1BBC7'
-    - '#878F9A'
-    - '#20252B'
+    - '#0E0F11'
+    - '#586D88'
+    - '#FFCEA6'
+    - '#A4A8AB'
+    - '#433E42'
   rhythmicContrast: 0.6691544249188155
 typography_spectrum: 0.7510331994853914
 cta:
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: planbagentur
+layout_spectrum: 0.2633270877413452
