@@ -1,9 +1,30 @@
-favicon: null
-layout_spectrum: 1
+typography_spectrum: 0.7706093
+color:
+  saturation: 0.8566308
+  brandStrength: 0
+  lightness: 0.688172
+  brandColors:
+    - '#0E0F11'
+    - '#586D88'
+    - '#FFCEA6'
+    - '#A4A8AB'
+    - '#433E42'
+  rhythmicContrast: 0.8835126
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: planbagentur
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -17,24 +38,3 @@ collections:
     permalink:
       path: '/:title/'
 purpose: []
-color:
-  saturation: 0.8566308
-  brandStrength: 0
-  lightness: 0.688172
-  brandColors:
-    - '#0E0F11'
-    - '#586D88'
-    - '#FFCEA6'
-    - '#A4A8AB'
-    - '#433E42'
-  rhythmicContrast: 0.8835126
-typography_spectrum: 0.7706093
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: planbagentur
