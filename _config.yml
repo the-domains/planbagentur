@@ -19,7 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: planbagentur
+name: plan | b agentur für massnahmen ag
 cta:
   bucket: null
   version: null
@@ -37,4 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Multidisziplinär
 purpose: []
